@@ -1,20 +1,3 @@
-Below is a **clean, structured Markdown guide** you can directly place in your Git repo as something like:
-
-```
-Java_Backend_Interview_Guide.md
-```
-
-I designed it to be:
-
-* **Interview-oriented**
-* **Backend engineer focused**
-* **Logically ordered**
-* **Easy to revise repeatedly**
-
-It integrates your current notes and fills the **missing but critical interview topics**.
-
----
-
 # ☕ Java Backend Interview Guide
 
 A **complete structured guide** for mastering **Java for Backend Engineering Interviews**.
